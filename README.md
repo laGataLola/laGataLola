@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @laGataLola
 - 👀 I’m interested in Art, Videogames and Illustration
-- 🌱 I’m currently learning Front End Development, specially Python and Django.
+- 🌱 I’m a Front End Developer, with experience using Django, Boostrap and Python. Currently learning new languages and Back End. 
 - 📫 How to reach me: lagatalolablog@gmail.com 
-- 🎨 You can also check my artworks at https://linktr.ee/lagatalola.dibujos
+- 🎨 Feel free to check my artworks and online stores at https://linktr.ee/lagatalola.dibujos
 
 <!---
 laGataLola/laGataLola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
